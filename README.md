@@ -1,2 +1,2 @@
 # SI-ker
-seeker of SI, OSINT detection by screenshot analysis mechonism
+seeker of SI, OSINT detection by screenshot analysis mechanism
