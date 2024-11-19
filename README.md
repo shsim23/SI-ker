@@ -15,7 +15,8 @@ SI-ker는 스크린샷을 통해 OSINT를 분석하여 군사 기밀의 유출�
 
 분석 결과
 
-![rr](https://github.com/user-attachments/assets/2bcaaa06-35fd-4689-87ce-b3ae58eb0a12)
+![rrrr](https://github.com/user-attachments/assets/e7e45d56-2f4f-4bed-bfab-1fc03e30068c)
+
 
 
 
