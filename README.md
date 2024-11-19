@@ -15,7 +15,8 @@ SI-ker는 스크린샷을 통해 OSINT를 분석하여 군사 기밀의 유출�
 
 분석 결과
 
-![result](https://github.com/user-attachments/assets/5b7392a6-2265-4106-bef8-0158af636712)
+![rr](https://github.com/user-attachments/assets/2bcaaa06-35fd-4689-87ce-b3ae58eb0a12)
+
 
 
 참고문헌 - [Pix2struct: Screenshot Parsing as Pretraining for Visual Language Understanding](https://arxiv.org/abs/2210.03347)
